@@ -30,7 +30,7 @@ input,label{
     font-weight: bolder;
     color:blue;
 }
-button{
+#header > button{
     font-size: 40px;
     font-style:oblique;
     font-weight: bolder;
@@ -82,4 +82,7 @@ h3{
 }
 #github,#linkedin{
     width: 60px;
+}
+.icon {
+    width: 40px;
 }
